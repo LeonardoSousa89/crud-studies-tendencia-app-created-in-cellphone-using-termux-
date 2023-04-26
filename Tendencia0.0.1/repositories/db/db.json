@@ -1,0 +1,209 @@
+//tendencia
+[
+
+ {
+		"preco":1027.89,
+		"estoque": 3,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido de linho",
+		"tamanho": "M",
+		"cor":"lilás",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido_lilas.jpg?alt=media&token=062d8ecd-1590-42e8-b4e6-e4e03ad59b3d"
+	},
+	{
+		"preco":2546.97,
+    "estoque": 7,
+		"peca":"camisa",
+		"categoria":"moda masculina",
+		"descricao":"conjunto social garcon",
+		"tamanho": "M",
+		"cor":"grafite",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fconjunto_garcon.jpg?alt=media&token=2451e60a-7c3e-47af-8832-67d961903e34"
+	},
+	{
+		"preco":1405.68,
+    "estoque": 2,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido fino",
+		"tamanho": "P",
+		"cor":"verde",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20fino.jpg?alt=media&token=7eed9ac8-9e21-4637-a9f5-bbaa05512ec2"
+	},
+	{
+		"preco":2604.77,
+    "estoque": 5,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido florado",
+		"tamanho": "P",
+		"cor":"azul",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20florado.jpg?alt=media&token=fc20723f-4e4d-41aa-8abf-92d460c2a039"
+	},
+	{
+		"preco":1575.33,
+    "estoque": 9,
+		"peca":"camisa",
+		"categoria":"moda masculina",
+		"descricao":"camisa social",
+		"tamanho": "P",
+		"cor":"branco",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fcamisa%20social.jpg?alt=media&token=ec066a0e-53cd-4703-8cac-2e5b76c2c8dc"
+	},
+	{
+		"preco":2356.66,
+    "estoque": 3,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido bordado",
+		"tamanho": "GG",
+		"cor":"azul",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20azul%20GG.jpg?alt=media&token=5f567cb9-b548-48c4-a8a5-9c2b53accb63"
+	},
+	{
+		"preco":4251.01,
+    "estoque": 1,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido chinês",
+		"tamanho": "P",
+		"cor":"branco",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20chin%C3%AAs.jpg?alt=media&token=7b1c544f-f453-4f42-afd7-1c081a745729"
+	},
+	{
+		"preco":3025.01,
+    "estoque": 11,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido bordado algodão",
+		"tamanho": "P",
+		"cor":"vinho",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20vinho.jpg?alt=media&token=7c674e02-7106-47ce-9610-428cabc1360e"
+	},
+	{
+		"preco":3002.71,
+    "estoque": 6,
+		"peca":"vestido",
+		"categoria":"moda feminina",
+		"descricao":"vestido bordado",
+		"tamanho": "P",
+		"cor":"branco",
+		"image_url":"https://firebasestorage.googleapis.com/v0/b/loja-de-moda-4fa2b.appspot.com/o/moda%2Fvestido%20florado%20azul%20e%20branco.jpg?alt=media&token=4b279399-ff96-43e2-8ae0-21473c091403"
+	}
+
+]
+
+//cliente
+[
+  {
+   "nome": "Otávio",
+   "sobrenome": "Mesquita de Melo",
+   "contato": "(71) 98765-6789",  
+   "cpf": "789.456.789-07"
+  },
+  {
+   "nome": "Julia",
+   "sobrenome": "Ferraz de Medeiros",
+   "contato": "ferraz@outlook.com",  
+   "cpf": "789.654.098-56"
+  },
+  {
+   "nome": "Bruno",
+   "sobrenome": "Mauro Filho",
+   "contato": "filho@yahoo.com",  
+   "cpf": "800.653.213-76"
+  }
+  
+]
+
+//endereco
+[
+  {
+   "cep": "43567890",
+   "estado": "Rio de Janeiro",
+   "cidade": "Copacabana",
+   "rua": "joâo filho"
+  },
+  {
+   "cep": "45678900",
+   "estado": "Bahia",
+   "cidade": "Salvador",
+   "rua": "alto do cruzeiro"
+  },
+  {
+   "cep": "01245678",
+   "estado": "São Paulo",
+   "cidade": "Santos",
+   "rua": "Dom Pedro I"
+  }
+]
+
+//telefone
+[
+  {
+   "fixo": "",
+   "celular": "(51) 997869087"
+  },
+  {
+   "fixo": "55 23557890",
+   "celular": "(51) 997863337"
+  },
+  {
+   "fixo": "",
+   "celular": "(73) 997860060"
+  }
+]
+
+//pedido
+[
+  {
+    "tendencia_id": 1,
+    "quantidade": 5
+  },
+  {
+    "tendencia_id": 1,
+    "quantidade": 6
+  },
+  {
+    "tendencia_id": 3,
+    "quantidade": 1
+  }
+]
+
+//status do pagamento
+[
+  {
+   "status": "pendente",
+   "pedido_id": 1
+  },
+  {
+   "status": "pago",
+   "pedido_id": 1
+  },
+  {
+   "status": "pendente",
+   "pedido_id": 3
+  }
+]
+
+//pagamento
+[
+  {
+   "bandeira": "mastercard",
+   "titular_cartao":  "Bruno Mauro Filho",
+   "numero_cartao": "5402 8284 6494 7420",
+   "csv": "301",
+   "validade": "12/2023", 
+   "total_a_pagar": 3002.71,
+   "cliente_id": 1,
+   "endereco_id": 1,
+   "telefone_id": 1,
+   "pedido_id": 1
+  }
+]
+
+//usuario
+
+
+
